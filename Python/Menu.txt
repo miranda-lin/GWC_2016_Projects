@@ -1,0 +1,6 @@
+import random
+
+random = random.(1,10)
+print(random)
+print(random)
+print(random)

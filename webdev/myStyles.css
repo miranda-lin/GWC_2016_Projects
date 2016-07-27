@@ -1,0 +1,54 @@
+
+
+h1 {
+	padding-top:5px;
+	border-left: 6px solid blue; 
+	background-color: lightblue;
+	color:blue;
+	text-align:center;
+	font-size: 40px;
+}
+
+#aboutme{
+	font-size: 16px;
+	border-left: 6px solid blue;
+	background-color: #B8EDFF;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+p { 
+	text-align:center;
+	padding-top:5px;
+	padding-left:20px;
+	border-left: 6px solid lightblue;
+	background-color:#B8EDFF;
+	font-size: 32px;
+}
+body{
+	
+}
+ul {
+	list-style-type:none;
+	text-align:center;
+	font-size: 24px;
+	padding-left:0;
+}
+
+html{
+	 
+	background-color: rgb(230, 250, 255);
+	
+	/* font-family: Cuprum, sans-serif; */
+	font-family: GOGOIA;
+}
+
+.block{
+	border-style: double;
+}
+
+/* @font-face{
+	
+}
+ */

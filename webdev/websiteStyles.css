@@ -1,0 +1,36 @@
+.post-content {
+    background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+    opacity: 0.5;
+    top:0;
+    left:0;
+    min-width: 100%; 
+    min-height: 100%; 
+    position: absolute;
+    color: #ffffff;
+
+	
+}
+
+.thumbnail{
+    position:relative;
+
+}
+.details {
+	font-family: 'Raleway', sans-serif;
+    position: absolute; 
+    z-index: 2; 
+    top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+    color: #ffffff; 
+	text-align: center;
+}
+
+#title{
+	font-size:60px;
+}
+
+#subtitle{
+	font-size: 24px;
+	color: #DBDBDB
+}
